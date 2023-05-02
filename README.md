@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @safhanalikhan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning three js , python
+- 📫 How to reach me : https://safhanalikhan.netlify.app
 
 <!---
 safhanalikhan/safhanalikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
